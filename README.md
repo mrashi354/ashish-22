@@ -13,5 +13,7 @@
  " portfolio"<br>
  
  " web devloper"<br>
- 
-<img>src/https://github.com/account</img>
+
+  <div aling center>
+   <img src="/>
+</div>
