@@ -6,7 +6,9 @@
 
 # Skills#
 
- "creat ai music "
- "creat ai  video "
- " portfolio"
- " web devloper"
+ "creat ai music "<br>
+
+ "creat ai  video "<br>
+ 
+ " portfolio"<br>
+ " web devloper"<br>
